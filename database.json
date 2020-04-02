@@ -2,33 +2,27 @@
   "workers": [
     {
       "id": 1,
-      "name": "Sergey Alexeev",
-      "position": "seller",
-      "comment": ""
+      "nickname": "Sergey Alexeev",
+      "message": "good day",
+      "time": "115512"
     },
     {
       "id": 2,
-      "name": "Andrey Ivanov",
-      "position": "oldest seller",
-      "comment": ""
+      "nickname": "Dimitriy1125",
+      "message": "message124",
+      "time": "112512"
     },
     {
       "id": 3,
-      "name": "Dmitriy Alexeev",
-      "position": "trainee",
-      "comment": "add from API tester(method POST) (PUT)"
-    }
-  ],
-  "managers": [
-    {
-      "id": 1,
-      "name": "Ivan Ivanov",
-      "number": 1004411
+      "nickname": "Ann125",
+      "message": "message9948",
+      "time": "115763"
     },
     {
-      "id": 2,
-      "name": "John Williams",
-      "number": 2204411
+      "id": 4,
+      "nickname": "Sibastian551",
+      "message": "g123",
+      "time": "110065"
     }
   ]
 }
