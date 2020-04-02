@@ -1,0 +1,34 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "name": "Sergey Alexeev",
+      "position": "seller",
+      "comment": ""
+    },
+    {
+      "id": 2,
+      "name": "Andrey Ivanov",
+      "position": "oldest seller",
+      "comment": ""
+    },
+    {
+      "id": 3,
+      "name": "Dmitriy Alexeev",
+      "position": "trainee",
+      "comment": "add from API tester(method POST) (PUT)"
+    }
+  ],
+  "managers": [
+    {
+      "id": 1,
+      "name": "Ivan Ivanov",
+      "number": 1004411
+    },
+    {
+      "id": 2,
+      "name": "John Williams",
+      "number": 2204411
+    }
+  ]
+}
