@@ -1,5 +1,5 @@
 {
-  "workers": [
+  "posts": [
     {
       "id": 1,
       "nickname": "Sergey Alexeev",
@@ -14,15 +14,9 @@
     },
     {
       "id": 3,
-      "nickname": "Ann125",
-      "message": "message9948",
-      "time": "115763"
-    },
-    {
-      "id": 4,
-      "nickname": "Sibastian551",
-      "message": "g123",
-      "time": "110065"
+      "nickname": "Dimi155iy1125",
+      "message": "messassse124",
+      "time": "1122112"
     }
   ]
 }
